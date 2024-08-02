@@ -1,0 +1,70 @@
+# Ignore Visual Studio temporary files, build results, and
+#    ## folders ##
+.vs/
+.vscode/
+**/.vs/
+**/.vscode/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (Mono Auto Generated)
+mono_crash.*
+
+# Mono auto generated files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio 2019
+.vscode/
+.vscode/*
+!*.code-workspace
+
+# Boost build folder
+**/boost/bin.v2
+
+# Uncomment if you have static libraries in your project
+# lib/
+
+# Uncomment if you have compiled files in your project
+# *.com
+# *.class
+# *.dll
+# *.exe
+# *.o
+# *.so
